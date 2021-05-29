@@ -1,4 +1,4 @@
-alphalens==0.3.2
+alphalens==0.3.6 # was 0.3.2
 nltk==3.3.0
 numpy==1.13.3
 ratelimit==2.2.0
